@@ -1,5 +1,5 @@
 ### Data Set
-Smart watch company located on california whos wants to expand there business to other state:
+A smartwatch company located in California, who wants to expand their business to other states.
 
   Key Metrics:
   
