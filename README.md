@@ -1,3 +1,21 @@
+### Data Set
+Smart watch company located on california whos wants to expand there business to other state:
+
+  Key Metrics:
+  
+    1. Economic
+    
+    2. Political
+    
+    3. Social Conditions
+    
+    4. Population size  
+    
+    5. Property size
+    
+    6. Corruption Index
+    
+
 ### Set 1:
 Our goal is to identify the state with the best potential for business expansion. We believe that states with higher income and lower corruption rates are more favorable for our business.
 ### Project Workflow:
